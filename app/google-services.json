@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741985080097",
+    "project_id": "petmecrud",
+    "storage_bucket": "petmecrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741985080097:android:0814a0bf15b351a72b2460",
+        "android_client_info": {
+          "package_name": "com.example.petmecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741985080097-qkakllm3vgd1vt4c52h45lj0a9ucu265.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYowv8KFKTFJkhA_r8v4O-Yt2n_uUkhd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741985080097-qkakllm3vgd1vt4c52h45lj0a9ucu265.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
